@@ -1,17 +1,19 @@
 # Leandro Vieira🚀
- <a href ="center"> <img src="https://komarev.com/ghpvc/?username=leleandrinho" alt="leleandrinho" /> </a>
- 
-Olá! Me chamo Leandro Dias Vieira e sou estudante de Data Science na FIAP, Atualmente sou Jovem Aprendiz na área de BI do BTG Pactual.<BR>
+ <a href ="center"> <img src="https://komarev.com/ghpvc/?username=leleandrinho" alt="leleandrinho" /> </a><br>
+ <img align="right" height= "200em" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+Olá! Me chamo Leandro Dias Vieira e sou estudante de Data Science na FIAP, atualmente sou Jovem Aprendiz na área de BI do BTG Pactual.<BR>
 - Power BI
 - SQL
 - Banco de Dados
 # Também Tenho Conhecimento🧠
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img heigh=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<div>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img heigh=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+</div>
           
 # Contato📞
 
