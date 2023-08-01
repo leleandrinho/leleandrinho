@@ -21,4 +21,8 @@ Olá! Me chamo Leandro Dias Vieira e sou estudante de Data Science na FIAP, atua
 <a href ="mailto:leandrodivieira73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/leleandrinho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/leleandrinho/leleandrinho/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/leleandrinho/leleandrinho/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
