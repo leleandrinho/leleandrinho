@@ -1,7 +1,7 @@
 # Leandro Vieira🚀
 <a href ="center"> <img src="https://komarev.com/ghpvc/?username=leleandrinho" alt="leleandrinho" /> </a><br>
  <img align="right" height= "150em" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
-Olá! Me chamo Leandro Dias Vieira e sou estudante de Data Science na <a href="https://www.fiap.com.br">FIAP</a>.<BR>
+Olá! Me chamo Leandro Dias Vieira e sou estudante de Data Science na <a href="https://www.fiap.com.br">FIAP</a>. Já trabalhei como Jovem Aprendiz de BI no <a href="https://www.btgpactual.com/">Banco BTG Pactual</a><BR>
 - Power BI
 - SQL
 - Banco de Dados
